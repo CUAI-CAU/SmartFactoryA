@@ -1,7 +1,8 @@
 # SmartFactoryA
-##2021 Summer Smart Factory A repository
+2021 Summer Smart Factory A repository
 
-### Team
+## Team
+
 **김민구**
 
 **서혜련**
@@ -10,11 +11,13 @@
 
 **이예진**
 
-### Code
+## Code
 All the code is written using 'Google Colab'.
 
-### Download
+## Download
+
 You can download the dataset and weights from the URL below.
+
 [nike dataset](https://drive.google.com/file/d/1fALbbxE9ahd_04zfzHDkX_IJAYJWJgVb/view?usp=sharing)
 
 [weight](https://drive.google.com/file/d/1c8Ek69B6JGhua5cNDyHShpWra4CXtA41/view?usp=sharing)
