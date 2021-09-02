@@ -1,7 +1,7 @@
 # 
 2021 Summer Smart Factory A repository
-[Paper](https://drive.google.com/file/d/1aw1VnPOGthQUWqi9VcpJqfNs_-ZGd2i2/view?usp=sharing) | [Presentation]
-[Presentation](https://www.youtube.com/watch?v=spsEE3XdDmI)
+[Paper](https://drive.google.com/file/d/1aw1VnPOGthQUWqi9VcpJqfNs_-ZGd2i2/view?usp=sharing) | [Presentation](https://www.youtube.com/watch?v=spsEE3XdDmI)
+
 Paper and Presentation are in Korean.
 
 ## Team
