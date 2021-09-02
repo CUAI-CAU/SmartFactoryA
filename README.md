@@ -1,15 +1,18 @@
-# SmartFactoryA
+# 
 2021 Summer Smart Factory A repository
+[Paper](https://drive.google.com/file/d/1aw1VnPOGthQUWqi9VcpJqfNs_-ZGd2i2/view?usp=sharing) | [Project]
+[Presentation](https://www.youtube.com/watch?v=spsEE3XdDmI)| [Presentation]
+Paper and Presentation are in Korean.
 
 ## Team
 
-**김민구**
-
-**서혜련**
-
-**신선우**
-
-**이예진**
+**Minku Kim** (School of Mechanical Engineering, Chung-Ang Univ.)
+minkukim8802@gmail.com
+**Hearyeon Seo** (School of Mechanical Engineering, Chung-Ang Univ.)
+hrfighting1113@gmail.com
+**Sunwoo Shin** (School of Art&Technology, Chung-Ang Univ.)
+dkqjwlwoo@naver.com
+**Yejin Lee**
 
 ## Code
 All the code is written using 'Google Colab'.
