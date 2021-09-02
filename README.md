@@ -9,10 +9,13 @@ Paper and Presentation are in Korean.
 
 **Minku Kim** (School of Mechanical Engineering, Chung-Ang Univ.)
 minkukim8802@gmail.com
+
 **Hearyeon Seo** (School of Mechanical Engineering, Chung-Ang Univ.)
 hrfighting1113@gmail.com
+
 **Sunwoo Shin** (School of Art&Technology, Chung-Ang Univ.)
 dkqjwlwoo@naver.com
+
 **Yejin Lee**
 
 ## Code
